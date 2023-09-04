@@ -1,0 +1,5 @@
+# Ignorar la base de datos SQLite
+db.sqlite3
+
+# Ignorar las migraciones dentro de la carpeta administracion
+#administracion/migrations
